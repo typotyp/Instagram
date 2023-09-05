@@ -19,5 +19,6 @@ ls
 
 git pull
 
-python instagram_crack.py
+python freig.py
+
 
