@@ -19,6 +19,6 @@ ls
 
 git pull
 
-python freig.py
+python iGeFre.py
 
 
